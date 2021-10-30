@@ -1,0 +1,7 @@
+# Ensure you have git installed on your desktop 
+
+Step 1: Click clone the directory(Or Copy the url to clipboard).
+Step 2: Create a new file on your PC.
+Step 3: Open GitBash in the folder.
+Step 3: Give the command "git clone url(paste the url you copied here)" & Click Enter.
+*The Contents of the directory you copied will be cloned in the file.*
